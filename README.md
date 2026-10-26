@@ -58,6 +58,10 @@
 ### 支持哪些输入格式？
 现阶段支持 Markdown,docx,pdf,pptx,txt 为主，适合结构化提纲、教案、技术文档,论文，学生作业。
 
+## 产出的例子
+<p align="center">
+  <img src="https://www.vibepptx.com/examples/zhaolusi_20260816_105120.jpg" alt="演员赵露思介绍" width="720" height="640">
+</p>
 ## 📮 反馈与建议
 Bug、功能需求、想法欢迎在 [Issues](https://github.com/xiongshudeng/vibepptx/issues) 提交。
 
