@@ -62,6 +62,12 @@
 <p align="center">
   <img src="https://www.vibepptx.com/examples/zhaolusi_20260816_105120.jpg" alt="演员赵露思介绍" width="720" height="640">
 </p>
+<p align="center">
+  <img src="https://www.vibepptx.com/examples/michelangelo_lecture_20260816_174348.jpg" alt="公众号米开朗基罗" width="720" height="640">
+</p>
+<p align="center">
+  <a href="https://www.vibepptx.com/About/Examples" target="_blank">生成的PPT样例</a> ·
+</p>
 ## 📮 反馈与建议
 Bug、功能需求、想法欢迎在 [Issues](https://github.com/xiongshudeng/vibepptx/issues) 提交。
 
